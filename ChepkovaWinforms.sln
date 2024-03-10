@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChepkovaWinforms", "ChepkovaWinforms\ChepkovaWinforms.csproj", "{F7F766DB-9A8E-45E8-9680-83200107170C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7F766DB-9A8E-45E8-9680-83200107170C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F766DB-9A8E-45E8-9680-83200107170C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F766DB-9A8E-45E8-9680-83200107170C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F766DB-9A8E-45E8-9680-83200107170C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {251DD4C4-EBE9-4DAD-A873-C70DC1B01668}
+	EndGlobalSection
+EndGlobal
